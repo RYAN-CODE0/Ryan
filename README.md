@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! This is Ryan.</h2>
 
 - 🌎 Find me around the web:https://ryanyang.cn 👈
-- 📫 Reach me asap: ryanyang221@gamil.com  👈
+- 📫 Reach me asap: ryanxys@gamil.com  👈
 
 
 
